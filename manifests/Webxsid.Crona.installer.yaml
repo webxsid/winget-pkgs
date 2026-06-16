@@ -16,7 +16,7 @@ Installers:
       - RelativeFilePath: crona-tui.exe
         PortableCommandAlias: crona-tui
     InstallerUrl: https://github.com/webxsid/crona/releases/download/v1.6.0/crona-bundle-1.6.0-windows-arm64.zip
-    InstallerSha256: 4f87840900ce114cad71ec30204d1cbbec67c364ccbff8a62b536593ceab1e5b
+    InstallerSha256: f3e6a1792300989b91c4941cf6be21fceb729d12ca98516dc40a21b21dc56bf4
     UpgradeBehavior: uninstallPrevious
   - Architecture: x64
     NestedInstallerType: portable
@@ -28,7 +28,7 @@ Installers:
       - RelativeFilePath: crona-tui.exe
         PortableCommandAlias: crona-tui
     InstallerUrl: https://github.com/webxsid/crona/releases/download/v1.6.0/crona-bundle-1.6.0-windows-amd64.zip
-    InstallerSha256: 23c4f3cc522f93c0d83056a9dee3a5d389519af1a448cab2550bce5d09eba657
+    InstallerSha256: 58547ca38bccaedf680cb1b61c863881437f8a3688667cc5012249d48529e4a8
     UpgradeBehavior: uninstallPrevious
 ManifestType: installer
 ManifestVersion: 1.12.0
